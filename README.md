@@ -63,7 +63,7 @@ Currently building an AI-powered Career Guidance Web App using React, Express, a
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link](https://www.linkedin.com/in/titus-senthilkumaran/))  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:titusroxsan@gmail.com)  
 [![Dev.to](https://img.shields.io/badge/-Dev.to-000000?logo=dev.to&logoColor=white)](https://dev.to/your-profile)
 
