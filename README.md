@@ -51,7 +51,7 @@ Already built an AI-powered Career Guidance Web App using React, Express, and My
 - 🛡️ **CyberSec Practice Labs**  
   Learning via OverTheWire, TryHackMe, and vulnerable web apps
 
-- 🌐 **Portfolio Website** *(Coming soon)*  
+- 🌐 **Portfolio Website**
   [Portfolio](https://mrtitus.netlify.app/)
 
 ---
