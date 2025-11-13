@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Titus Senthilkumaran!
 
-🎓 Student | 💻 MERN Stack Developer | 🛡️ Cybersecurity Learner | 🤖 AI Enthusiast
+🎓 Intern Full Stack Developer - Teceze | 💻 MERN | 🛡️ Cybersecurity Learner | 🤖 AI Enthusiast
 
-I’m passionate about building real-world fullstack web applications, exploring cybersecurity hands-on, and experimenting with AI models.  
-Currently building an AI-powered Career Guidance Web App using React, Express, and MySQL.
+I’m passionate about building real-world fullstack web applications, exploring cybersecurity hands-on, and curious about AI.  
+Already built an AI-powered Career Guidance Web App using React, Express, and MySQL.
 
 ---
 
@@ -31,11 +31,8 @@ Currently building an AI-powered Career Guidance Web App using React, Express, a
 
 ## 🌱 Currently Learning
 
-- Secure authentication with Access + Refresh tokens
-- OAuth (Google login with Passport.js)
 - Hands-on cybersecurity labs (TryHackMe, OverTheWire)
 - TypeScript & Object-Oriented Programming
-- Building AI-integrated web applications using APIs
 
 ---
 
@@ -48,14 +45,14 @@ Currently building an AI-powered Career Guidance Web App using React, Express, a
 
 ## 🧑‍💻 Current Projects
 
-- 🎯 **AI Career Guidance App**  
+- 🎯 **AI Career Guidance App (DreamRoute) **  
   MERN Stack | AI Roadmap Generator | Role-based Auth | SQL
 
 - 🛡️ **CyberSec Practice Labs**  
   Learning via OverTheWire, TryHackMe, and vulnerable web apps
 
 - 🌐 **Portfolio Website** *(Coming soon)*  
-  Responsive portfolio to showcase my projects and skills
+  [Portfolio](https://mrtitus.netlify.app/)
 
 ---
 
